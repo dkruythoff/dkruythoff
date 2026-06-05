@@ -1,6 +1,6 @@
 # Hi, I'm Darius 👋
 
-I am a Frontend Architect and Senior Software Engineer with over 20 years building for the web, and 10 years of professional experience specializing in Vue 3, TypeScript, and the lifecycle of responsive design systems.
+I am a Frontend Architect and Senior Software Engineer with over 20 years building for the web; specializing in Vue 3, TypeScript, and the lifecycle of responsive design systems.
 
 ## 🏗️ Architectural Philosophy
 
@@ -20,6 +20,7 @@ I am a Frontend Architect and Senior Software Engineer with over 20 years buildi
 A public showcase of my architectural approach to building modern, production-ready frontend infrastructure using **Vue 3** and **TypeScript**. 
 * **Key Focus:** Minimal dependency footprint, clean state hydration, and highly scannable component architecture.
 * **Why look at it:** It demonstrates how I structure real-world, enterprise-grade layouts without architectural bloat.
+* **Planned:** React and Nuxt frontends.
 
 ---
 
