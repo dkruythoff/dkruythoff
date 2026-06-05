@@ -1,6 +1,6 @@
 # Hi, I'm Darius 👋
 
-I am a Frontend Architect and Senior Software Engineer with over 20 years building for the web; specializing in Vue 3, TypeScript, and the lifecycle of responsive design systems.
+I am a Frontend Architect and Senior Software Engineer with over 20 years building for the web; specializing in Vue 3, TypeScript, and design systems.
 
 ## 🏗️ Architectural Philosophy
 
