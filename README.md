@@ -1,32 +1,38 @@
 # Hi, I'm Darius 👋
 
-I am a Frontend Architect and Senior Software Engineer with over 20 years building for the web; specializing in Vue 3, TypeScript, and design systems.
+Senior frontend engineer with 26 years of building for the web, mostly as an
+independent contractor. I specialise in Vue 3, TypeScript and design systems,
+and I'm at home in the APIs behind them.
 
-## 🏗️ Architectural Philosophy
+## How I work
 
-* **Lean Production:** I focus on minimal dependency footprint—stripping unnecessary design tool metadata to keep codebases fast and maintainable.
-* **Design System Governance:** I bridge the gap between design and code, turning UI components and complex states into strict, composable, and predictable systems.
-* **Pragmatic Type Safety:** I treat TypeScript as a tool for codebase predictability and team collaboration, ensuring systems scale safely without letting the type system become a bureaucratic bottleneck.
+- **Lean codebases:** few dependencies, and business logic kept out of the
+  framework, so the UI layer can change without a rewrite.
+- **Design systems:** I bridge design and code, turning components and states
+  into a shared, predictable system.
+- **Pragmatic TypeScript:** types that help a team, not slow it down.
+- **AI as a tool, not an author:** plans come first, and I review and commit
+  every change by hand.
 
-## 🛠️ Tech Stack & Ecosystem
+## Stack
 
-* **Frameworks & Core:** Vue 3 (Composition API), React, Modern JavaScript
-* **Languages & Tooling:** TypeScript, HTML5 / Advanced CSS, Vite, Playwright
-* **Architecture:** Design System Tokens, State Management, Custom API Integration Layers
+- Vue 3 (Composition API), Nuxt, TypeScript, React
+- CSS architecture, Storybook, Vitest, Playwright, Vite
+- Node.js and Deno APIs (Hono), SQL (PostgreSQL, MySQL, SQLite), Docker
 
-## 🚀 Featured Project Showcase
+## Featured project
 
-### 📊 [Shipments Dashboard](https://github.com/dkruythoff/shipments-dashboard)
-A public showcase of my architectural approach to building modern, production-ready frontend infrastructure using **Vue 3** and **TypeScript**. 
-* **Key Focus:** Minimal dependency footprint, clean state hydration, and highly scannable component architecture.
-* **Why look at it:** It demonstrates how I structure real-world, enterprise-grade layouts without architectural bloat.
+### [Shipments Dashboard](https://github.com/dkruythoff/shipments-dashboard)
 
----
+A small full-stack playground where I try out frontend architecture decisions:
+a Vue 3 component library with Storybook and visual regression tests, a
+Node/Hono API, and Zod types shared between them. Work in progress.
 
-## 📬 Let's Connect
+## Let's connect
 
-I am based near Valencia, Spain, and am available for remote frontend architecture and senior engineering roles across the EU.  
-If your team is scaling a design system or modernizing a codebase, let's talk tech.
+Based near Valencia, Spain, and available for remote work across the EU, as a
+contractor or an employee. If your team is scaling a design system or
+modernizing a codebase, let's talk.
 
-* **LinkedIn:** [linkedin.com/in/dkruythoff](https://www.linkedin.com/in/dkruythoff)
-* **Malt:** [malt.com/profile/dariuskruythoff](https://www.malt.com/profile/dariuskruythoff)
+- **LinkedIn:** [linkedin.com/in/dkruythoff](https://www.linkedin.com/in/dkruythoff)
+- **Malt:** [malt.com/profile/dariuskruythoff](https://www.malt.com/profile/dariuskruythoff)
